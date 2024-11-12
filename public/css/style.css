@@ -1,0 +1,16 @@
+a {text-decoration: none; color: inherit;}
+a:hover {
+    color: rgb(43, 41, 160);
+    text-decoration: underline;
+}
+
+.drop-item:hover {background-color: rgb(159, 168, 175);}
+
+.card-fixed {
+    width: 300px; /* Lebar tetap */
+    height: 225px; /* Tinggi tetap untuk menjaga rasio 4:3 */
+}
+
+ul li a:hover {
+    text-decoration: underline;
+}
